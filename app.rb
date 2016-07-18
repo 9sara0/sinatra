@@ -11,3 +11,11 @@ end
 get '/sarah' do
   "My name is Sarah"
 end
+
+get '/cat' do
+  "<div style='border: 3px dashed red'>
+
+  <img src='http://bit.ly/1eze8aE'>
+
+  </div>"
+end
